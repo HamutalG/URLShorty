@@ -1,0 +1,9 @@
+export const API_URL = "http://localhost:3001/url";
+export const BASE_URL = "https://urlshorty.ly";
+export const COPY_SUCCESS_TIMEOUT = 1000; // in ms
+export const PLACEHOLDER_TEXT = "Enter URL";
+export const BUTTON_TEXT_SHORTEN = "Shorten";
+export const BUTTON_TEXT_COPY = "Copy";
+export const BUTTON_TEXT_COPIED = "Copied!";
+export const CLEAR_BUTTON_TEXT = "×";
+export const TITLE_TEXT = "URL Shortener";
