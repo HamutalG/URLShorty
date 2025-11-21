@@ -41,7 +41,7 @@ You will need to have **MongoDB running locally** and ensure it is connected.
 #### 1. Clone the repo
 
 ```sh
-git clone <repo-url>
+git clone https://github.com/HamutalG/URLShorty.git
 cd URLShorty
 ```
 
@@ -81,7 +81,7 @@ npm install
 
 #### 6. Run the project with concurrently
 
-Make sure you are back in the root folder:
+\*Make sure you are back in the root folder:
 
 ```sh
 cd ..//
